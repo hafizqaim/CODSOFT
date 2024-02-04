@@ -1,0 +1,3 @@
+C:\Users\resea\source\repos\CodiSoft\CodiSoft\x64\Debug\CodiSoft.vcxproj.AssemblyReference.cache
+C:\Users\resea\source\repos\CodiSoft\CodiSoft\x64\Debug\CodiSoft.MyForm.resources
+C:\Users\resea\source\repos\CodiSoft\CodiSoft\x64\Debug\CodiSoft.vcxproj.GenerateResource.cache
